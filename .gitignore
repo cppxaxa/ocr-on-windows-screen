@@ -1,0 +1,36 @@
+# Visual Studio solution and project files
+**/.vs/
+*.sln
+*.suo
+*.user
+*.csproj.user
+*.webinfo
+*.tmp
+*.tmp_proj
+*.log
+*.opendb
+*.VC.db
+*.mdb
+*.ncb
+
+# Visual Studio temporary/cache files
+**/bin/
+**/obj/
+
+# User-specific files
+*.userprefs
+
+# Backup files
+*.old
+
+# Assembly files (DLLs, EXEs)
+*.dll
+*.exe
+*.pdb
+
+# Package and deployment files
+*.nupkg
+
+# Other common files
+*.suo
+*.log
