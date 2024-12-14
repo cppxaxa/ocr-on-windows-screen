@@ -2,6 +2,9 @@
 
 This C# project performs text detection and optical character recognition (OCR) on images using OpenCV's EAST text detector and Tesseract OCR engine. It extracts text from images, draws bounding boxes around detected text, and optionally processes the text with Tesseract to extract and display the content.
 
+## Snapshot
+![Output](snapshots/output.png)
+
 ## Features
 
 - Text detection using the EAST model from OpenCV.
